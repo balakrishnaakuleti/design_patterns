@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 7 elements to &apos;Proxy/src&apos;&#x0D;&#x0A;- Original project: &apos;State&apos;&#x0D;&#x0A;- Destination element: &apos;Proxy/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     HasPIN.java&#x0D;&#x0A;     NoCash.java&#x0D;&#x0A;     ATMMachine.java&#x0D;&#x0A;     ATMState.java&#x0D;&#x0A;     NoCard.java&#x0D;&#x0A;     ATMPlayTest.java&#x0D;&#x0A;     HasCard.java" description="Copy compilation units" destination="=Proxy/src" element1="/src&lt;{HasPIN.java" element2="/src&lt;{NoCash.java" element3="/src&lt;{ATMMachine.java" element4="/src&lt;{ATMState.java" element5="/src&lt;{NoCard.java" element6="/src&lt;{ATMPlayTest.java" element7="/src&lt;{HasCard.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1486559656738" units="7" version="1.0"/>
+</session>

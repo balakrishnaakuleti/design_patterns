@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;InputTextJFrame&apos; to &apos;InputDialogueSwing&apos;&#x0D;&#x0A;- Original project: &apos;Memento&apos;&#x0D;&#x0A;- Original element: &apos;InputTextJFrame&apos;&#x0D;&#x0A;- Renamed element: &apos;InputDialogueSwing&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InputTextJFrame&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{InputTextJFrame.java[InputTextJFrame" matchStrategy="1" name="InputDialogueSwing" qualified="false" references="true" similarDeclarations="false" stamp="1499081728209" textual="false" version="1.0"/>
+</session>

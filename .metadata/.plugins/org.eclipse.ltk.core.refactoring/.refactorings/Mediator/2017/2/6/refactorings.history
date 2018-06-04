@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;NationalStockExchange&apos; to &apos;NationalExchange&apos;&#x0D;&#x0A;- Original project: &apos;Mediator&apos;&#x0D;&#x0A;- Original element: &apos;NationalStockExchange&apos;&#x0D;&#x0A;- Renamed element: &apos;NationalExchange&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NationalStockExchange&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{NationalStockExchange.java[NationalStockExchange" matchStrategy="1" name="NationalExchange" qualified="false" references="true" similarDeclarations="false" stamp="1486647571487" textual="false" version="1.0"/>
+</session>

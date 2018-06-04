@@ -1,0 +1,11 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ÊÄõH¤RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(—§›¢H¥RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H¦RMINORZ
+CODE_SMELL
+Zsquid:S1604"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿH§RMAJORZ
+CODE_SMELL
