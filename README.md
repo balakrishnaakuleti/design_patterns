@@ -1,2 +1,2 @@
 # design_patterns
-Design Pattern Practice Programs
+This repo contains the programs I have written while learning Java Design Patterns.
